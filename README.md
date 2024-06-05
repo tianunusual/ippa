@@ -15,6 +15,4 @@
 
 > [@Blog](https://blog.mc.ci) · [@Google](https://www.9t.ee) · [@server](https://dn.mc.ci/server.html) · 
 
-### Support it
 
-> <img src="https://dn.mc.ci/image/github/alipay.png"/><img src="https://dn.mc.ci/image/github/wxpay.png"/>
