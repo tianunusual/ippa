@@ -2,7 +2,7 @@
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@mc.ci
-- Telegram：[@udian]([https://t.me/uidian]([https://t.me/uidian)]
+- Telegram：[@hi-mc](https://t.me/hi_mcc)
 - Twitter：[@doogluo](https://twitter.com/doogluo)
 - Weibo：[@李木晚晚晚晚](https://weibo.com/chinazcwl)
 - GitHub：[@李木晚晚晚晚](https://github.com/tianunusual)
