@@ -1,4 +1,4 @@
-
+ This is a public magnet repository. Thank you very much for using it! We also hope that you can share the magnets that we don't have. The repository files will be updated from time to time; the author will add new magnet links in his spare time, except for force majeure. This repository resource will not charge any fees. If the file is encrypted, please add our Telegram Group if you need to obtain the password.
 --------------------------------------------------------------------
 ### Contact Me
 - E-mail：about@mc.ci
