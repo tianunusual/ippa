@@ -1,4 +1,4 @@
-<div class="markdown-body css-0"><img align="right" width="240" src="https://gcore.jsdelivr.net/gh/ChirmyRam/ChirmyRam-OneDrive-Repository/odlogo.png">
+<div class="markdown-body css-0"><img align="right" width="240" src="https://buck.001231.xyz/favicon.apng">
 <h1>🛖 プライベートファイルストレージシステム </h1>
 <blockquote>
 <p>使用方法：115、Pikpak、Bitcomet、Aria2</p>
