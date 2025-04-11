@@ -29,6 +29,15 @@
 <tr><td>NHDTB系列原档合集【605V】</td><td>605</td><td>5181.44</td><td>ed2k</td><td>241101</td><th>🔓️</th>
 <tr><td>神木丽合集(VR写真)【56V】</td><td>56</td><td>451.38</td><td>ed2k</td><td>250213</td><th>🔓️</th>
 </tbody></table>
+
+<h2>🎤 二、年間リスト</h2>
+<ul>
+<li>2023年度作品TOP250</li>https://dn.douke.org/ippa/Top-250.html
+<li>2024年のトップ10作品*年間最優秀作品</li>  https://dn.douke.org/ippa/ippa_2024-optimal.html
+</ul>
+<table>
+
+  
 <p>この Web サイトのリソースはインターネットから取得されており、すべてクローラーによってキャプチャされたデータです。文書の信頼性は検証されていません。このサイトは、使用によって生じたいかなる結果についても責任を負いません。このサイトのリソースを使用する場合は、現地の法律および規制に従ってください。もっと共有したいことがあれば、私に書いてください:  <strong>E-mail:admin@xk.ee</strong> </p>
 
 <h2>☹、参加する<h2>
