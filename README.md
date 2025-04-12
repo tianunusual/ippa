@@ -40,10 +40,10 @@
   
 <p>この Web サイトのリソースはインターネットから取得されており、すべてクローラーによってキャプチャされたデータです。文書の信頼性は検証されていません。このサイトは、使用によって生じたいかなる結果についても責任を負いません。このサイトのリソースを使用する場合は、現地の法律および規制に従ってください。もっと共有したいことがあれば、私に書いてください:  <strong>E-mail:admin@xk.ee</strong> </p>
 
-<h2>☹、参加する<h2>
+<h2>😀、参加する<h2>
 <blockquote>
 <p>Telegram：<a href="https://t.me/udian6">https://t.me/udian6</a></p>
 </blockquote></div>
 
-<h2>☺、Sponsored Advertising<h2>
+<h2>😊、Sponsored Advertising<h2>
 <a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://dn.douke.org/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
