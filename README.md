@@ -5,7 +5,7 @@
 </blockquote>
 <h2>🎤 一、資料紹介</h2>
 <ul>
-<li>すべてのファイルの包括的なディレクトリ：≈169434761​ GB</li>
+<li>すべてのファイルの包括的なディレクトリ：≈165464.79 TB</li>
 </ul>
 <table>
 <thead><tr><th>名前</th><th>量（V）</th><th>サイズ（GB）</th><th>タイプ</th><th>時間</th><th>権限</th>
@@ -28,6 +28,7 @@
 <tr><td>98堂-国产原创区【29378V】</td><td>29378</td><td>143447.26</td><td>BT</td><td>240822</td><th>🔓️</th>
 <tr><td>NHDTB系列原档合集【605V】</td><td>605</td><td>5181.44</td><td>ed2k</td><td>241101</td><th>🔓️</th>
 <tr><td>神木丽合集(VR写真)【56V】</td><td>56</td><td>451.38</td><td>ed2k</td><td>250213</td><th>🔓️</th>
+<tr><td>佐佐木纱希合集【263V】</td><td>263</td><td>1187.84</td><td>ed2k</td><td>250621</td><th>🔓️</th
 </tbody></table>
 
 <h2>🎤 二、年間リスト</h2>
