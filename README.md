@@ -46,4 +46,4 @@
 </blockquote></div>
 
 <h2>😊、Sponsored Advertising<h2>
-<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://dn.douke.org/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
+<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://apac.ele.cm/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
