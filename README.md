@@ -1,4 +1,4 @@
-<div class="markdown-body css-0"><img align="right" width="240" src="https://apac.ele.cm/favicon.apng">
+<div class="markdown-body css-0"><img align="right" width="240" src="https://i.ku.cm/favicon.apng">
 <h1>🛖 プライベートファイルストレージシステム </h1>
 <blockquote>
 <p>使用方法：115、qBittorrent、uTorrent、Pikpak、Bitcomet、Aria2</p>
@@ -45,5 +45,7 @@
 <p>Telegram：<a href="https://t.me/udian6">https://t.me/udian6</a></p>
 </blockquote></div>
 
+> [@Blog](https://blog.xk.ee/) · [@IPPA列表](https://list.ele.cm) · 
+
 <h2>😊、Sponsored Advertising<h2>
-<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://apac.ele.cm/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
+<a href="https://app.cloudcone.com/?ref=7733" target="_blank"><img src="https://i.ku.cm/github/image/cloudcone_banner.gif" style="width:1200px; height:100px;" /></a>
