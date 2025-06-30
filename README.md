@@ -33,8 +33,8 @@
 
 <h2>🎤 二、年間リスト</h2>
 <ul>
-<li>2023年度作品TOP250</li> <a href="https://i.cloud-m.us/ippa/2023_Top-250.html">https://i.cloud-m.us/ippa/2023_Top-250.html</a>
-<li>2024年のトップ10作品*年間最優秀作品</li>  <a href="https://i.cloud-m.us/ippa/2024-optimal.html">https://i.cloud-m.us/ippa/2024-optimal.html</a>
+<li>2023年度作品TOP250</li> <a href="https://i.ulu.ee/ippa/2023_Top-250.html">https://i.ulu.ee/ippa/2023_Top-250.html</a>
+<li>2024年のトップ10作品*年間最優秀作品</li>  <a href="https://i.ulu.ee/ippa/2024-optimal.html">https://i.ulu.ee/ippa/2024-optimal.html</a>
 </ul>
 <table>
 
