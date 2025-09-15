@@ -1,4 +1,4 @@
-<div class="markdown-body css-0"><img align="right" width="240" src="https://i.ku.cm/favicon.apng">
+<div class="markdown-body css-0"><img align="right" width="240" src="https://ecos.ku.cm/github/ico/favicon.apng">
 <h1>🛖 プライベートファイルストレージシステム </h1>
 <blockquote>
 <p>使用方法：115、qBittorrent、uTorrent、Pikpak、Bitcomet、Aria2</p>
